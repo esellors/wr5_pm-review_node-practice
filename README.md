@@ -1,0 +1,1 @@
+## WR5 node.js practice by creating a server that allows a request to get sports teams and add a sports team (get, post);
